@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/w8d3-reactcities/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/w8d3-reactcities/static/js/main.e1ac992e.chunk.js",
-    "main.js.map": "/w8d3-reactcities/static/js/main.e1ac992e.chunk.js.map",
-    "runtime-main.js": "/w8d3-reactcities/static/js/runtime-main.2ec534c0.js",
-    "runtime-main.js.map": "/w8d3-reactcities/static/js/runtime-main.2ec534c0.js.map",
-    "static/js/2.4b98cd73.chunk.js": "/w8d3-reactcities/static/js/2.4b98cd73.chunk.js",
-    "static/js/2.4b98cd73.chunk.js.map": "/w8d3-reactcities/static/js/2.4b98cd73.chunk.js.map",
-    "static/js/3.04364158.chunk.js": "/w8d3-reactcities/static/js/3.04364158.chunk.js",
-    "static/js/3.04364158.chunk.js.map": "/w8d3-reactcities/static/js/3.04364158.chunk.js.map",
+    "main.css": "/w8d3-reactcities/static/css/main.9d680501.chunk.css",
+    "main.js": "/w8d3-reactcities/static/js/main.ed9c83c4.chunk.js",
+    "main.js.map": "/w8d3-reactcities/static/js/main.ed9c83c4.chunk.js.map",
+    "runtime-main.js": "/w8d3-reactcities/static/js/runtime-main.25575223.js",
+    "runtime-main.js.map": "/w8d3-reactcities/static/js/runtime-main.25575223.js.map",
+    "static/js/2.c742bcb9.chunk.js": "/w8d3-reactcities/static/js/2.c742bcb9.chunk.js",
+    "static/js/2.c742bcb9.chunk.js.map": "/w8d3-reactcities/static/js/2.c742bcb9.chunk.js.map",
+    "static/js/3.9aafae8d.chunk.js": "/w8d3-reactcities/static/js/3.9aafae8d.chunk.js",
+    "static/js/3.9aafae8d.chunk.js.map": "/w8d3-reactcities/static/js/3.9aafae8d.chunk.js.map",
     "index.html": "/w8d3-reactcities/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/w8d3-reactcities/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4b98cd73.chunk.js.LICENSE.txt": "/w8d3-reactcities/static/js/2.4b98cd73.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/w8d3-reactcities/static/media/logo.6ce24c58.svg"
+    "static/css/main.9d680501.chunk.css.map": "/w8d3-reactcities/static/css/main.9d680501.chunk.css.map",
+    "static/js/2.c742bcb9.chunk.js.LICENSE.txt": "/w8d3-reactcities/static/js/2.c742bcb9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ec534c0.js",
-    "static/js/2.4b98cd73.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e1ac992e.chunk.js"
+    "static/js/runtime-main.25575223.js",
+    "static/js/2.c742bcb9.chunk.js",
+    "static/css/main.9d680501.chunk.css",
+    "static/js/main.ed9c83c4.chunk.js"
   ]
 }
